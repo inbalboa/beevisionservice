@@ -1,0 +1,22 @@
+{
+  "getDeviceInfo": {
+    "Success": true,
+    "Code": "1",
+    "Description": "Description 1",
+    "StatusMessage": "Operation successful",
+    "id": "1",
+    "measureId": "1"
+  },
+  "measure": {
+    "StatusCode": 0,
+    "Width": "6",
+    "Length": "7",
+    "Height": "8",
+    "Weight": "55",
+    "Barcode": "77777",
+    "DimUnit": "m",
+    "WeightUnit": "kg",
+    "id": "1",
+    "StatusMessage": "OK"
+  }
+}
